@@ -3,7 +3,7 @@
 Hola!
 
 This folder contains the algorithms needed to replicate the results of our manuscript entitled "Acoustic censusing and individual identification of birds in the wild" 
-by CL Bedoya and LE Molles. A dataset with Kiwi (roroa) calls related to these codes is available at: https://doi.org/10.6084/m9.figshare.16850542.v1
+by CL Bedoya and LE Molles (https://www.biorxiv.org/content/10.1101/2021.10.29.466450v1). A dataset with Kiwi (roroa) calls related to these codes is available at: https://doi.org/10.6084/m9.figshare.16850542.v1
 
  Every single piece of code mentioned in this ReadMe is also internally documented.
 **********************************************************************************************************************************************************************
